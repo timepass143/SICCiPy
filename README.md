@@ -9,7 +9,7 @@ A Simple Internet Connection Checker in python, wiz. used to check that, the mac
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ```
-git clone https://github.com/dishantrathi/SICCiPy
+git clone https://github.com/dishantrathi/SICCiPy.git
 ```
 
 ### Prerequisites
